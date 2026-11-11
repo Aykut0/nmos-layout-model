@@ -1,0 +1,21 @@
+magic
+tech scmos
+timestamp 0
+<< ndiffusion >>
+rect 0 0 44 20
+<< polysilicon >>
+rect 18 -6 26 26
+<< ndcontact >>
+rect 2 4 14 16
+rect 30 4 42 16
+<< polycontact >>
+rect 18 28 26 40
+<< metal1 >>
+rect 0 2 16 18
+rect 28 2 44 18
+rect 16 30 28 42
+<< labels >>
+rlabel metal1 6 10 6 10 0 S
+rlabel metal1 38 10 38 10 0 D
+rlabel metal1 22 36 22 36 0 G
+<< end >>
